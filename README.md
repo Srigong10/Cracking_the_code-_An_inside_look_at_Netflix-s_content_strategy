@@ -1,2 +1,2 @@
-# AI_in-_Healthcare_-Building_a_Life-Saving_Heart_Disease_Predictor
-Machine learning model that can accurately predict whether a patient has heart disease based on a set of medical attributes.
+# GeeksforGeeks_L4: AI in Healthcare Building a Life Saving Heart Disease Predictor
+AI_in_Healthcare_Building_a_Life-Saving_Heart_Disease_Predictor.ipynb contains the required ML model
