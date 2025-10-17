@@ -1,2 +1,3 @@
-# GeeksforGeeks_L4: AI in Healthcare Building a Life Saving Heart Disease Predictor
-AI_in_Healthcare_Building_a_Life-Saving_Heart_Disease_Predictor.ipynb contains the required ML model
+# GeeksforGeeks_L2: Cracking the code: An inside look at Netflix's content strategy
+This reprository is an in-depth exploratory data analysis (EDA) of the Netflix datasets. 
+The EDA includes: Trends in content production, identification of popular genres, analyzing content ratings, and understand the distribution of movies and TV shows on the platform. 
